@@ -1,0 +1,25 @@
+Kaggle Session Comments:
+
+1. Consider creating a class for pre_processing 
+* It initialized the WordNet lemmatizer - 
+* Then in the apply function call the class .preprocess function
+* It will be much faster.
+* Class Pre_processor - different functions for different processing steps - scikit-learn pipelines it's useful to split those functions in multiple classes. In scikit-learn multiple of those classes can be a component and we can see output of those components - when using scikit-learn - separate classes for functional components - for e.g. removing stopwords.
+* One class of everything can be done.
+
+2. Lemmatization is word normalization - root form - is slower than stemming.
+
+
+Kaggle session comments:
+1. Variation in the test score - cross validation
+* shuffling can play a role
+* larger the dataset - lesser the variation
+
+
+May 07, 2021
+
+Christian explaining scikit-learn pipelines:
+
+1. Tried out SVM, RF, NB
+2. Why __xxx__? special functions in python - for initialization of the class - special functions in python - special functions have special meaning - go beyond - create a class instance this is being executed.
+3. single underscore - either side - beginning, end, both - for python does not make a difference to Christian's knowledge. single underscore - private function.
