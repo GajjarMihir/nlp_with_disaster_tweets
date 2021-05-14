@@ -1,0 +1,42 @@
+clf__C:
+- 1
+- 10
+clf__class_weight:
+- balanced
+- null
+clf__degree:
+- 3
+- 5
+clf__kernel:
+- poly
+- rbf
+tfidf_vect__binary:
+- true
+- false
+tfidf_vect__max_df:
+- 0.6
+- 0.8
+tfidf_vect__max_features:
+- 10
+- 100
+- 500
+tfidf_vect__min_df:
+- 0.0
+- 0.1
+tfidf_vect__ngram_range:
+- !!python/tuple
+  - 1
+  - 1
+- !!python/tuple
+  - 1
+  - 2
+- !!python/tuple
+  - 1
+  - 2
+  - 3
+tfidf_vect__sublinear_tf:
+- true
+- false
+tfidf_vect__use_idf:
+- true
+- false

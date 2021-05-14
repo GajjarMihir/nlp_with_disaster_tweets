@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/152a264d534741ab86dc8752d061922a/artifacts
+end_time: 1621020803449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 152a264d534741ab86dc8752d061922a
+run_uuid: 152a264d534741ab86dc8752d061922a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621020803412
+status: 4
+tags: []
+user_id: mihir
