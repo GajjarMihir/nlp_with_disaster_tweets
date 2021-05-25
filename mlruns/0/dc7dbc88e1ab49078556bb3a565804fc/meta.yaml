@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/dc7dbc88e1ab49078556bb3a565804fc/artifacts
+end_time: 1621027167263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dc7dbc88e1ab49078556bb3a565804fc
+run_uuid: dc7dbc88e1ab49078556bb3a565804fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1621027167204
+status: 3
+tags: []
+user_id: mihir
